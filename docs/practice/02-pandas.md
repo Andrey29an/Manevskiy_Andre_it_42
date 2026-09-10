@@ -146,4 +146,4 @@ df.dtypes
 - Створено обчислювані стовпці — векторизованою формулою та через
   `.apply()`.
 
-**Лекція до цієї практики:** [Лекція 2. pandas: Series, DataFrame](../lectures/02-pandas.md)
+**Лекція до цієї практики:** [Лекція 3. pandas: Series, DataFrame](../lectures/03-pandas.md)
